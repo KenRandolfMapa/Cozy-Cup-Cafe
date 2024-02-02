@@ -38,3 +38,15 @@ Frappuccino is a line of blended iced coffee drinks sold by Starbucks.[2] It may
  <br>
  Price: ₱59.00 <br>
  <button onclick="">Buy Now</button>
+
+---
+
+## About the Authors
+<img src="https://github.com/KenRandolfMapa.png" alt="Ken Randolf Mapa" width="150" style="border-radius: 50%"/>
+
+**Name:** Ken Randolf P. Mapa
+
+**Email:** khenrandolfmapa@gmail.com
+
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/khenrandolf.mapa.24)
+[![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/KenRandolfMapa)

@@ -50,3 +50,14 @@ Frappuccino is a line of blended iced coffee drinks sold by Starbucks.[2] It may
 
 [![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/khenrandolf.mapa.24)
 [![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/KenRandolfMapa)
+
+---
+
+<img src="https://github.com/bjay09.png" alt="Bhea Jane Cafugauan" width="150" style="border-radius: 50%"/>
+
+**Name:** Bhea Jane Cafugauan
+
+**Email:** cafugauanbheajane@gmail.com
+
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/abajay.junio)
+[![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/bjay09)
